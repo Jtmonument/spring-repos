@@ -3,3 +3,4 @@
 - [Dependency Injection Examples](https://github.com/Jtmonument/sfg-di)
 - [Pet Clinic](https://github.com/Jtmonument/spring-pet-clinic)
 - [REST API](https://github.com/Jtmonument/spring-rest)
+- [Chuck Norris Jokes](https://github.com/Jtmonument/spring-chuck-norris)
